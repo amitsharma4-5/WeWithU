@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🎯 wewithyou
+# 🎯 WeWithYou
 
 ### AI-Powered Mock Interviews & Placement Preparation Platform
 
