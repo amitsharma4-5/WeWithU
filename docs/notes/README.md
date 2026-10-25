@@ -7,8 +7,21 @@ product features are wired end to end.
 | File | What it is |
 | --- | --- |
 | `WeWithU-Project-Review-Notes.pdf` | **Main deliverable.** 38 A4 pages, print-ready, with a clickable outline and accurate page numbers. |
-| `WeWithU-Project-Review-Notes.md` | Editable Markdown source of the same content (diagram placeholders are marked as captions). |
-| `assets/cover.png` | Cover illustration used by the PDF. |
+| `WeWithU-Review-Day-Card.pdf` | **4-page companion** for the day itself: coverage map, backend card, data card, feature card with all fifteen answer keys. |
+| `WeWithU-Project-Review-Notes.md` | Editable Markdown source of the main notes (diagram placeholders are marked as captions). |
+| `assets/cover.png` | Cover illustration used by the main PDF. |
+
+Start with the main PDF once. On review day, print only `WeWithU-Review-Day-Card.pdf` — it fits on
+four pages and repeats the highest-value facts in a scannable form.
+
+## The four card pages
+
+| Page | Contents |
+| --- | --- |
+| 1 · Coverage map | Every sub-point of Tasks 15–29 and the PDF page that explains it, plus where the phase text and the code disagree, so you can prove nothing was dropped. |
+| 2 · Backend card | Bootstrap order, middleware contributions, the eight mounts, `isAuth` statements, status-code table, six-step tracing method. |
+| 3 · Data card | Connection code, the four schemas with the rules to quote, create/read/update calls, Mongoose method table, validation layers, gaps to name. |
+| 4 · Feature card | Interview and placement request sequences, the `askAi` contract, all fifteen practice answer keys, static vs API-driven pages, demo script, closing line. |
 
 ## Reading order
 
