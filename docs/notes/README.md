@@ -6,6 +6,7 @@ product features are wired end to end.
 
 | File | What it is |
 | --- | --- |
+| `WeWithU-Project-Review-Notes-Complete.pdf` | **Single-file edition.** Everything below in one 42-page PDF: the 38-page notes, then the 4-page card. Prints as one job, shares as one attachment. |
 | `WeWithU-Project-Review-Notes.pdf` | **Main deliverable.** 38 A4 pages, print-ready, with a clickable outline and accurate page numbers. |
 | `WeWithU-Review-Day-Card.pdf` | **4-page companion** for the day itself: coverage map, backend card, data card, feature card with all fifteen answer keys. |
 | `WeWithU-Project-Review-Notes.md` | Editable Markdown source of the main notes (diagram placeholders are marked as captions). |
@@ -13,6 +14,23 @@ product features are wired end to end.
 
 Start with the main PDF once. On review day, print only `WeWithU-Review-Day-Card.pdf` — it fits on
 four pages and repeats the highest-value facts in a scannable form.
+
+## The single-file edition
+
+`WeWithU-Project-Review-Notes-Complete.pdf` is the notes and the card bound together, with nothing
+re-typeset:
+
+| | Pages | Page labels | Why |
+| --- | --- | --- | --- |
+| Notes | 1–38 (PDF pages 1–38) | `1`–`38` | Keeps every "see page 17" reference printed in the card correct. |
+| Card | 1–4 (PDF pages 39–42) | `C1`–`C4` | The card keeps its own printed `01 / 04`–`04 / 04` footer. |
+
+It opens with the bookmark panel showing seven sections (Cover, Parts I–V, Review-day card) and
+every task and Part V sub-section nested underneath. Page 2 carries a small green note pointing at
+the card and linking to page C1, because the original contents page predates it.
+
+Print double-sided: 42 pages is 21 sheets. For the review day itself, print only the card (pages
+39–42, or the separate four-page file).
 
 ## The four card pages
 
